@@ -1,6 +1,6 @@
 import logging.handlers
 
-# Create logger
+# Create Logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
